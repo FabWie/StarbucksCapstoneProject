@@ -28,3 +28,8 @@ This project was implemented in Python, utilizing Jupyter Notebook within the An
 - matplotlib.pyplot
 - seaborn
 - sklearn (scikit-learn)
+
+## Data Source :
+- Data Source:  Udacity, Inc. ("Data Science" nanodegree program)
+## Acknowledgements :
+Thanks to Starbucks for providing the dataset to the Udacity "Data Science" nanodegree program.
